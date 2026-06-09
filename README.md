@@ -1,5 +1,5 @@
 I’m a Computer Engineering student at CSULB interested in:
-AI , Machine Learning, Ethics, and how their correlation.
+AI , Machine Learning.
 AWS and Cloud Computing.
 Database Management.
 Mathematics, Physics, Geology, Astronomy, Philosophy, and Classics, Culinary Arts, Chemistry, Biology, Music, and more.
