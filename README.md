@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @GreensBlues
-- 👀 I’m interested in Music, Coding, Gaming, Food, Disc Golf
-- 🌱 I’m currently learning Computer Science and Engineering
-- 💞️ I’m looking to collaborate on deep learning for AI
-- 📫 How to reach me: Email @ TimDoughe@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I studied Culinary Arts before switching to Comp Sci
-
-<!---
-GreensBlues/GreensBlues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a Computer Engineering student at CSULB interested in:
+AI , Machine Learning, Ethics, and how their correlation.
+AWS and Cloud Computing.
+Database Management.
+Mathematics, Physics, Geology, Astronomy, Philosophy, and Classics, Culinary Arts, Chemistry, Biology, Music, and more.
+Augmented Reality
+Computer Engineering, Verilog Design, Block Diagrams, and Software Programming.
+Networking and Learning in Teams.
+Dedication, Respect, and Perseverance.
